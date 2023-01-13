@@ -1,0 +1,10 @@
+Public IP Address: 14.139.184.25Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-ELAV8NME
+Private IP Address: 192.168.161.163
+Couldn't get Public IP Address (most likely max queryProcessor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: LAPTOP-ELAV8NME
+Private IP Address: 192.168.161.163
